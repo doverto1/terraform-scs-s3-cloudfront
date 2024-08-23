@@ -1,0 +1,6 @@
+locations      = ["US", "CA"]
+s3_bucket_name = "scs-poc-cloudfront"
+tags = {
+  TechContact  = "doverto1"
+  AdminContact = "doverto1"
+}

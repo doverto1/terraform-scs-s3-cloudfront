@@ -1,0 +1,6 @@
+dynamodb_table_name = "scs-s3-cloudfront-tfstate"
+s3_bucket_name      = "scs-s3-cloudfront-tfstate"
+tags = {
+  AdminContact = "doverto1"
+  TechContact  = "doverto1"
+}
