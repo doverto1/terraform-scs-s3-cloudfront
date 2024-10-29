@@ -1,5 +1,6 @@
 variable "dynamodb_table_name" {
   description = "The name of the tfstate dynamodb_table"
+  type        = string
 }
 variable "s3_bucket_name" {
   description = "Name of the tfstate S3 Bucket"
